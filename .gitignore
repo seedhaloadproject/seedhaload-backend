@@ -1,0 +1,16 @@
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+.DS_Store
+node_modules/
+supabase/.branches/
+supabase/.temp/
+dist/
+build/
+*.log
+.vscode/
+.idea/
+.supabase/
+coverage/
